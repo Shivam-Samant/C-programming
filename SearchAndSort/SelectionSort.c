@@ -24,13 +24,7 @@ int main(){
 }
 
 
-
-
-
-
-
 // //                 OR
-
 
 // // //             SELECTION SORT
 

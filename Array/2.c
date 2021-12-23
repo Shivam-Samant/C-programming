@@ -1,4 +1,4 @@
-// Reverse an array
+// // Reverse an array
 #include<stdio.h>
 void Reverse(int *arr,int size){
     for(int i=0;i<(size)/2;i++){
